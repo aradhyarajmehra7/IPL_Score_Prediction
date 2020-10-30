@@ -9,4 +9,10 @@ scipy>=0.15.1
 scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
-ordereddict
+Flask-Celery==2.4.3
+Flask-Login==0.4.1
+flask-oidc==1.4.0
+Flask-Script==2.0.6
+Flask-Session==0.3.1
+Flask-Sessionstore==0.4.5
+
